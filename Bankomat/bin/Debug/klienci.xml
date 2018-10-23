@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <People>
+    <Person>
+      <accountNumber>123456789</accountNumber>
+      <accountBalance>15240</accountBalance>
+      <PINcode>5468</PINcode>
+    </Person>
+    <Person>
+      <accountNumber>923456781</accountNumber>
+      <accountBalance>540</accountBalance>
+      <PINcode>5788</PINcode>
+    </Person>
+    <Person>
+      <accountNumber>123546789</accountNumber>
+      <accountBalance>15275</accountBalance>
+      <PINcode>5421</PINcode>
+    </Person>
+    <Person>
+      <accountNumber>123456879</accountNumber>
+      <accountBalance>9240</accountBalance>
+      <PINcode>5475</PINcode>
+    </Person>
+  </People>
+</Customer>

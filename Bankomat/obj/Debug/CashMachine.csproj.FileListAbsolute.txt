@@ -1,0 +1,7 @@
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad3\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad3\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad3\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad3\Bankomat\Bankomat\obj\Debug\CashMachine.csprojResolveAssemblyReference.cache
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad3\Bankomat\Bankomat\obj\Debug\CashMachine.csproj.CoreCompileInputs.cache
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad3\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\JUSTYNA\Programowanie\ZadaniaWSB\zad3\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
